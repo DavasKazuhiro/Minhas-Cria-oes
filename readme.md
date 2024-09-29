@@ -8,22 +8,23 @@ Veja algumas um pouco mais de coisas que fiz e gosto de fazer para me conhecer u
 Durante a pandemia, passei a morar alguns meses na chácara dos meus avós e, meu vô, apesar de ter mais de 90 anos, cuida até hoje de sua horta. Para regá-la, ele sempre usou água da torneira ou de um lago meio distante da horta. Então decidi construir um sistema que capta a água da chuva através das calhas do telhado, faz uma filtragem e armazena em uma caixa d'agua com um sistema de vazão para não transbordar. Construí este projeto com a ajuda da minha tia e do meu pai, com base neste [Vídeo](https://www.youtube.com/watch?v=ET1VejEicug) do [ManualDoMundo](https://www.youtube.com/@manualdomundo).
 
 <h2 style="text-align: center; margin-top: 40px;">Simulação</h2>
-<div  style="display: flex; gap: 10%; justify-content:center; margin: 40px 0;"> 
-    <img src="ColetorDeAgua/IMG-20240928-WA0016.jpg" style="width: 40%">
-    <video controls src="ColetorDeAgua/VID-20240928-WA0011.mp4" width="40%">
-</div>
-    <h2 style="text-align: center; margin-top: 40px;">Depois da Chuva</h2>
-    <div  style="display: flex; gap: 10%; justify-content:center; margin: 40px 0;"> 
-    <video controls src="ColetorDeAgua/VID-20240928-WA0009.mp4" width="90%">
-</div>
+<img src="ColetorDeAgua/IMG-20240928-WA0016.jpg" style="width: 40%">
+    
+https://github.com/user-attachments/assets/487ad78f-9f92-4f2b-9988-2f8074e2ffd3
+
+<h2 style="text-align: center; margin-top: 40px;">Depois da Chuva</h2>   
+    
+https://github.com/user-attachments/assets/008906ea-13b3-47bd-8621-d4ca1928cdfe
 
 ## Armadilha de Mosquitos
 Durante o período que passava na chácara dos meus avós, seja durante as férias com meus primos ou durante os finais de semana com a minha família, sempre houveram épocas com infestações de pernilongos que incomodavam demais e, por conta disso, resolvi construir um aparelho que atraía os mosquitos durante a noite com leds e os capturava com uma ventoinha, similar àqueles que vendem por preços altíssimos. Não ficou com o design muito elegante, mas deu muito certo e, apesar de capturar algumas mariposas sem querer, as nossas pernas ficaram agradecidas.
-<div  style="display: flex; gap: 10%; justify-content:space-between;  margin: 40px 0;"> 
-    <div style="width: 30%;"><video controls src="ArmadilhaDeMosquitos/mosquitosVideo1.mp4"></div>
-    <div style="width: 30%;"><video controls src="ArmadilhaDeMosquitos/mosquitosVideo2.mp4"></div>
-    <img src="ArmadilhaDeMosquitos/mosquitos.jpg" style="width: 30%">
-</div>
+ 
+[<div style="width: 30%;"><video controls src="ArmadilhaDeMosquitos/mosquitosVideo1.mp4"></div>](https://github.com/user-attachments/assets/03a303f5-5f90-4138-8103-0c623a86e2d3)
+
+[<div style="width: 30%;"><video controls src="ArmadilhaDeMosquitos/mosquitosVideo2.mp4"></div>](https://github.com/user-attachments/assets/5d36f46e-9cb6-4996-964b-cc5d8960f390)
+
+<img src="ArmadilhaDeMosquitos/mosquitos.jpg" style="width: 30%">
+
 
 ## Xadrez
 Desde meus 5 anos de idade, me interessei por xadrez e pude fazer aulas até 9 anos de idade e participar de alguns torneios, me destacando de certa forma. Após isso, me mudei de cidade, parei de fazer aulas, mas participei dos Jogos Escolares até o 9° ano, onde pude ganhar mais alguns prêmios. O que me orgulho mais é o Campeonato Regional, onde conquistei junto com meus amigos na modalidade em equipes a medalha de prata.
@@ -40,7 +41,7 @@ Outra coisa que me deixou muito feliz foi o fato de, mesmo estudando em uma esco
 ## OBMEP
 Durante o ensino fundamental 2, como estudava em escola pública, tive a oportunidade de participar da Olimpíada Brasileira de Matemática das Escolas Públicas, onde fui medalhista no 9° ano e, por conta disso, participei do Programa de Iniciação Científica Jr. da OBMEP por 2 anos. Dois anos depois, quando estava no último ano do ensino médio, após a pandemia, competi pela última vez onde consegui uma menção honrosa.
 <div  style="display: flex; gap: 10%; justify-content:center;  margin: 40px 0;"> 
-    <img src="OBMEP/obmep3.jpg" style="width: 40%; spin: 90 deg;">
+    <img src="OBMEP/obmep3.jpg" style="width: 40%;">
     <img src="OBMEP/obmep2.jpg" style="width: 40%">
 </div>
 <div  style="display: flex; gap: 10%; justify-content:center;  margin: 40px 0;"> 
